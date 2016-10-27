@@ -1,6 +1,5 @@
 ## Bill of Materials
 
-This time we will not use a microprocessor.
 
 ### Must have
 
@@ -10,7 +9,13 @@ This time we will not use a microprocessor.
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|Webcam|[Tweakers Pricewatch](http://tweakers.net/categorie/289/webcams/producten/#filter:q1bKL0pJLXLLTM1JUbJSKijKzCpW0oEIBucXlQDFEouT4SIFqcmeQHW6hrUA)|7.00|
 |2|1|3mm MDF|Houthandel Schmidt|3.00|
+|3|2|M3 16mm bolts and nuts|||
+|4|5|5mm White LEDs|||
+|5|5|220 ohm resistors|||
+|6|4|M3 10mm bolts and nuts|||
 
 You will also need:
-* some M3 30 mm bolts and nuts
-* a metal wire to moun the LED
+
+* Some wood glue
+* Maybe some tape
+* Microprocessor to control the LEDs

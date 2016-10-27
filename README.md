@@ -4,8 +4,10 @@ BioHack Academy Webcam Microscope
 
 * Bill of Materials
 * Sketchup Design
+* SVG cutsheet
+* Pictures
 
 To Do:
 
-* Fine focus system
-* Stable bottom plate
+* Arduino code
+* Assembly guide
