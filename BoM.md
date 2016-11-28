@@ -10,9 +10,11 @@
 |1|1|Webcam|[Tweakers Pricewatch](http://tweakers.net/categorie/289/webcams/producten/#filter:q1bKL0pJLXLLTM1JUbJSKijKzCpW0oEIBucXlQDFEouT4SIFqcmeQHW6hrUA)|7.00|
 |2|1|3mm MDF|Houthandel Schmidt|3.00|
 |3|2|M3 16mm bolts and nuts|||
-|4|5|5mm White LEDs|||
-|5|5|220 ohm resistors|||
-|6|4|M3 10mm bolts and nuts|||
+|4|1|M3 10 mm bolt and nut|||
+|5|1|5mm White LEDs|||
+|6|4|3mm White LEDs|||
+|7|5|220 ohm resistors|||
+|8|4|M3 10mm bolts and nuts|||
 
 You will also need:
 
