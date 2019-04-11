@@ -6,9 +6,9 @@ On April 13, 2019 a workshop was conducted at the Mini Green Maker Faire Rhein-W
 
 ## Navigation the repo
 
- 	BHA_Webcam_Microscope/					Main repo
- 	|-- Pictures/							Photo documentation
- 	BoM.md									Bill of Materials
+ 	BHA_Webcam_Microscope/				Main repo
+ 	|-- Pictures/					Photo documentation
+ 	BoM.md						Bill of Materials
  	Webcam-Microscope-Assembly.pdf			Assembly guide
  	Webcam-Microscope-Biotic-Gaming-Fritzing.fzz	Wiring Scheme
  	Webcam-Microscope-Cut-Sheet.svg			Laser cut vector file
