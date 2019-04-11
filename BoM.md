@@ -19,9 +19,13 @@ Also, make sure you have enough 3mm material to cut the design from.
 
 It terms of controlling the LEDs or streaming the video footage there are multiple options. The simplest solution is to use an Arduino or similar microcontroller. A more advanced option is to use a Raspberry Pi to not just control the LEDs via the GPIO pins, but also stream the video footage over wifi. A guide on how to configure a Raspberry Pi Zero W for video stream can be found here [Raspberry Pi Zero W video streaming guide](/rpi-zero-w-video-streaming).
 
+### Optional Arduino
+
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|Arduino|[Hackerstore](https://www.hackerstore.nl/Artikel/17)|9.95|
+
+### Optional Raspberry Pi
 
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
