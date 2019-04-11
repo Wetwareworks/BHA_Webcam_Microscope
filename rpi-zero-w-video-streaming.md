@@ -2,7 +2,43 @@
 
 ## Install Raspbian on your SD card
 
-Follow the guide on http://www.raspberrypi.org for [Installing Raspbian](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
+Follow the guide on http://www.raspberrypi.org for [Installing Raspbian on your SD Card](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
+
+## Pre-configure Wifi and SSH settings on the SD card
+
+Since we are going to use the Raspberry Pi "headless" (w/o keyboard, mouse or display) we will need to make some pre-configurations before booting up.
+
+Create a file called "SSH" (without quotes and indeed without extension) in the BOOT partition of the SD card. This will enable SSH remote command line access once. The file is removed once Raspbian boots.
+
+Create a file called "wpa_supplicant.conf" in the BOOT partition of the SD card, add the following:
+
+```
+country=[FILL IN YOUR TWO CHARACTER COUNTRY CODE e.g. US, DE, GB, NL]
+update_config=1
+ctrl_interface=/var/run/wpa_supplicant
+
+network={
+ scan_ssid=1
+ ssid="PiScopeHub"
+ psk="LetMeIn!"
+}
+```
+
+
+## Configure Raspbian
+
+Boot the Raspberry Pi by powering it up. Connect to it via SSH
+
+```
+### Open Raspbian configuration scree
+sudo raspi-config
+```
+
+Under Network Options change the Hostname to e.g. PiScope1. This will make it easier to open up the video stream in your browser later on.
+
+Under Interfacing Options enable SSH remote command line access permenantly.
+
+Finish to save settings
 
 ## Install MJPG-streamer
 
