@@ -1,10 +1,10 @@
-#BHA Webcam Microscope
+# BHA Webcam Microscope
 
 This repo contains the designs and source files of a **DIY Webcam Microscope**. This device can be used to observe microscope slides on your PC and play biotic games. 
 
 On April 13, 2019 a workshop was conducted at the Mini Green Maker Faire Rhein-Waal. The assembly guide that was used there can be found in this repository as well.
 
-##Navigation the repo
+## Navigation the repo
 
  	BHA_Webcam_Microscope/					Main repo
  	|-- Pictures/							Photo documentation
@@ -13,6 +13,7 @@ On April 13, 2019 a workshop was conducted at the Mini Green Maker Faire Rhein-W
  	Webcam-Microscope-Biotic-Gaming-Fritzing.fzz	Wiring Scheme
  	Webcam-Microscope-Cut-Sheet.svg			Laser cut vector file
  	Webcam-Microscoep-Sketchup.skp			Sketchup 3D design
+  rpi-zero-w-video-streaming.md   Guide on setting up video streaming
 
 ## To Do
 
