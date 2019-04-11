@@ -24,13 +24,15 @@ network={
 }
 ```
 
+Change the SSID of the network and psk password to whatever you need to connect to your Wifi.
+
 
 ## Configure Raspbian
 
-Boot the Raspberry Pi by powering it up. Connect to it via SSH
+Boot the Raspberry Pi by powering it up. Connect your computer to the same Wifi network and open up a SSH terminal.
 
 ```
-### Open Raspbian configuration scree
+### Open Raspbian configuration screen
 sudo raspi-config
 ```
 
@@ -223,5 +225,9 @@ sudo chmod +x /home/pi/mjpg-streamer.sh
 sudo crontab -e
 
 # Add line
-@reboot /home/pi/mjpg-streamer.sh start
+@reboot bash /home/pi/mjpg-streamer.sh start
 ``````
+
+### Credits
+
+This guide has been derived from https://github.com/cncjs/cncjs/wiki/Setup-Guide:-Raspberry-Pi-%7C-MJPEG-Streamer-Install-&-Setup-&-FFMpeg-Recording
