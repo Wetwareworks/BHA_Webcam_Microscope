@@ -63,7 +63,7 @@ sudo make install
 
 ```
 sudo nano /home/pi/mjpg-streamer.sh
-```
+
 Add the below code to ( /home/pi/mjpg-streamer.sh )
 ```
 #!/bin/bash
