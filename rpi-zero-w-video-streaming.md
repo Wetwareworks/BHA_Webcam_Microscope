@@ -2,7 +2,7 @@
 
 ## Install Raspbian on your SD card
 
-Follow the guide on http://www.raspberrypi.org
+Follow the guide on http://www.raspberrypi.org for [Installing Raspbian](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
 
 ## Install MJPG-streamer
 
