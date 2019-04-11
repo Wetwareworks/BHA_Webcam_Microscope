@@ -67,9 +67,6 @@ sudo nano /home/pi/mjpg-streamer.sh
 Add the below code to ( /home/pi/mjpg-streamer.sh )
 ```
 #!/bin/bash
-# chmod +x mjpg-streamer.sh
-# Crontab: @reboot /home/pi/mjpg-streamer/mjpg-streamer.sh start
-# Crontab: @reboot /home/pi/mjpg-streamer/mjpg-streamer-experimental/mjpg-streamer.sh start
 
 sleep 20 # wait for the RPi to finish boot
 
