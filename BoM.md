@@ -17,7 +17,7 @@ Also, make sure you have enough 3mm material to cut the design from.
 |6|4|3mm White LEDs|[Farnell](http://nl.farnell.com/multicomp/ovl-3321/led-3mm-bright-white-8cd/dp/1716696)|0.45|
 |7|5|220 ohm resistors|[Hackerstore](https://www.hackerstore.nl/Artikel/478), [Farnell](http://nl.farnell.com/multicomp/mcf-0-25w-220r/resistor-carbon-film-220r-0-25w/dp/9339299?Ntt=9339299), [iPrototype](https://iprototype.nl/products/components/resistors/220R), [EOO](https://www.eoo-bv.nl/metaaloxide-3w/7085-metaalox-3w-220.html)|0.02|
 
-It terms of controlling the LEDs or streaming the video footage there are multiple options. The simplest solution is to use an Arduino or similar microcontroller. A more advanced option is to use a Raspberry Pi to not just control the LEDs via the GPIO pins, but also stream the video footage over wifi. A guide on how to configure a Raspberry Pi Zero W for video stream can be found here [Raspberry Pi Zero W video streaming guide](/rpi-zero-w-video-streaming).
+It terms of controlling the LEDs or streaming the video footage there are multiple options. The simplest solution is to use an Arduino or similar microcontroller. A more advanced option is to use a Raspberry Pi to not just control the LEDs via the GPIO pins, but also stream the video footage over wifi. A guide on how to configure a Raspberry Pi Zero W for video stream can be found here [Raspberry Pi Zero W video streaming guide](/rpi-zero-w-video-streaming.md).
 
 ### Optional Arduino
 
