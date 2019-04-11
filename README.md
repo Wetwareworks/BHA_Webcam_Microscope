@@ -1,6 +1,8 @@
 #BHA Webcam Microscope
 
-This repo contains the designs and source files of a **DIY Webcam Microscope**. This device can be used to observe microscope slides on your PC and play biotic games. Check out the corresponding [BHA lecture in the Syllabus](http://biohackacademy.github.io) for more information.
+This repo contains the designs and source files of a **DIY Webcam Microscope**. This device can be used to observe microscope slides on your PC and play biotic games. 
+
+On April 13, 2019 a workshop was conducted at the Mini Green Maker Faire Rhein-Waal. The assembly guide that was used there can be found in this repository as well.
 
 ##Navigation the repo
 
@@ -23,4 +25,6 @@ All code is licensed under GNU General Public License.
 
 All designs are licensed under Creative Commons Contribution Share-Alike license
 
-Copyright Waag Society
+## Credits
+
+This design has been forked from Waag's Biohack Academy
