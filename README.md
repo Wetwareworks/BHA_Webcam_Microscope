@@ -13,7 +13,7 @@ On April 13, 2019 a workshop was conducted at the Mini Green Maker Faire Rhein-W
  	Webcam-Microscope-Biotic-Gaming-Fritzing.fzz	Wiring Scheme
  	Webcam-Microscope-Cut-Sheet.svg			Laser cut vector file
  	Webcam-Microscoep-Sketchup.skp			Sketchup 3D design
-  rpi-zero-w-video-streaming.md   Guide on setting up video streaming
+ 	rpi-zero-w-video-streaming.md			Guide on setting up video streaming
 
 ## To Do
 
